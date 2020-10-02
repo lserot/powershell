@@ -2,7 +2,7 @@
 Note: 
 * MS provides rpm for RHEL 7 
 * Red Hat provide Universal Base Image, as a standard and secured Base OS Image for containers; Will use the default flavor here (ubi7/ubi)
-* I'm not a container expert, so that probably there is a better way to create the image 
+* I'm not a container expert, so probably there is a better way to create the image 
 
 You can 
  * build the image with buildah & commit your changes to create the image
